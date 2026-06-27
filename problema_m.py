@@ -35,7 +35,7 @@ print(maior(n))
 # tirando fatores par: 72 -> 3, 3 = 3^3 = 9
 # maior divisor impar = 9
 
-# resoluçao certa, log
+# resoluçao certa, O(log n)
 numero = int(input(''))
 
 while True:
